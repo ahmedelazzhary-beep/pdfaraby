@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:defaultwidgetversion='2' b:layoutsversion='3' dir='rtl' lang='ar' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+    <meta charset='UTF-8'/>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'/>
+    <meta content='index, follow' name='robots'/>
+    <!-- Dynamic SEO & Meta Tags -->
+    <!-- Google Fonts: Cairo -->
+    <link href='https://fonts.googleapis.com' rel='preconnect'/>
+    <link crossorigin='anonymous' href='https://fonts.gstatic.com' rel='preconnect'/>
+    <link href='https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&amp;display=swap' rel='stylesheet'/>
+    
+    <b:if cond='data:blog.url contains "/p/pdf.html"'>
+        <!-- Tool: PDF to Image -->
+        <title>تحويل PDF إلى صور (JPG) - مجاناً وبجودة عالية | PdfAraby</title>
+        <meta content='أداة مجانية لتحويل ملفات PDF إلى صور JPG عالية الجودة. استخرج صفحات ملف PDF كصور منفصلة بسرعة وسهولة.' name='description'/>
+        <meta content='تحويل pdf الى صور, pdf to jpg, تحويل بي دي اف الى صور, استخراج الصور من pdf, تحويل pdf الى صور بجودة عالية' name='keywords'/>
+        
+        <!-- Open Graph -->
+        <meta content='تحويل PDF إلى صور (JPG) - مجاناً وبجودة عالية | PdfAraby' property='og:title'/>
+        <meta content='أداة مجانية لتحويل ملفات PDF إلى صور JPG عالية الجودة.' property='og:description'/>
+        <meta content='website' property='og:type'/>
+        
+        <!-- Twitter -->
+        <meta content='summary_large_image' name='twitter:card'/>
+        <meta content='تحويل PDF إلى صور (JPG) - مجاناً وبجودة عالية | PdfAraby' name='twitter:title'/>
+        <meta content='أداة مجانية لتحويل ملفات PDF إلى صور JPG عالية الجودة.' name='twitter:description'/>
+
+    <b:elseif cond='data:blog.url contains "/p/pdf_01520063794.html"'/>
+        <!-- Tool: Image to PDF -->
+        <title>تحويل الصور إلى PDF - دمج الصور في ملف واحد | PdfAraby</title>
+        <meta content='اجمع صورك (JPG, PNG) في ملف PDF واحد مجاناً. أداة سهلة وسريعة لترتيب الصور وحفظها كمستند PDF.' name='description'/>
+        <meta content='تحويل الصور الى pdf, jpg to pdf, دمج الصور في pdf, انشاء pdf من الصور, تحويل الصور لملف pdf' name='keywords'/>
+        
+        <!-- Open Graph / Twitter -->
+        <meta content='تحويل الصور إلى PDF - دمج الصور في ملف واحد | PdfAraby' property='og:title'/>
+        <meta content='اجمع صورك (JPG, PNG) في ملف PDF واحد مجاناً. أداة سهلة وسريعة.' property='og:description'/>
+        <meta content='summary_large_image' name='twitter:card'/>
+        <meta content='تحويل الصور إلى PDF - دمج الصور في ملف واحد | PdfAraby' name='twitter:title'/>
+
+    <b:elseif cond='data:blog.url contains "/p/pdf_77.html"'/>
+        <!-- Tool: Merge PDF -->
+        <title>دمج ملفات PDF - دمج عدة ملفات اون لاين مجاناً | PdfAraby</title>
+        <meta content='ادمج ملفات PDF متعددة في ملف واحد منظم بسهولة. رتب ملفاتك واجمعها في مستند واحد بضغطة زر.' name='description'/>
+        <meta content='دمج pdf, merge pdf, دمج ملفات بي دي اف, تجميع pdf, 2 pdf in 1' name='keywords'/>
+        
+        <!-- Open Graph / Twitter -->
+        <meta content='دمج ملفات PDF - دمج عدة ملفات اون لاين مجاناً | PdfAraby' property='og:title'/>
+        <meta content='ادمج ملفات PDF متعددة في ملف واحد منظم بسهولة.' property='og:description'/>
+        <meta content='summary_large_image' name='twitter:card'/>
+        <meta content='دمج ملفات PDF - دمج عدة ملفات اون لاين مجاناً | PdfAraby' name='twitter:title'/>
+
+    <b:elseif cond='data:blog.url contains "/p/pdf_29.html"'/>
+        <!-- Tool: Compress PDF -->
+        <title>ضغط ملفات PDF - تقليص حجم الملف مع الحفاظ على الجودة | PdfAraby</title>
+        <meta content='قلل حجم ملفات PDF الخاصة بك مجاناً مع الحفاظ على أفضل جودة ممكنة. ضغط ذكي وسريع للملفات الكبيرة.' name='description'/>
+        <meta content='ضغط pdf, compress pdf, تصغير حجم pdf, تقليل حجم بي دي اف, ضغط ملفات بي دي اف' name='keywords'/>
+        
+        <!-- Open Graph / Twitter -->
+        <meta content='ضغط ملفات PDF - تقليص حجم الملف مع الحفاظ على الجودة | PdfAraby' property='og:title'/>
+        <meta content='قلل حجم ملفات PDF الخاصة بك مجاناً مع الحفاظ على أفضل جودة ممكنة.' property='og:description'/>
+        <meta content='summary_large_image' name='twitter:card'/>
+        <meta content='ضغط ملفات PDF - تقليص حجم الملف مع الحفاظ على الجودة | PdfAraby' name='twitter:title'/>
+
+    <b:else/>
+        <!-- Default / Homepage / Other Posts -->
+        <meta content='تحويل PDF إلى Word, تحويل عربي, PDF to Word Arabic, أدوات PDF مجانية' name='keywords'/>
+        <title><data:blog.pageTitle/></title>
+        <b:if cond='data:blog.metaDescription'>
+            <meta expr:content='data:blog.metaDescription' name='description'/>
+            <meta expr:content='data:blog.metaDescription' property='og:description'/>
+            <meta expr:content='data:blog.metaDescription' name='twitter:description'/>
+        <b:else/>
+            <meta content='أفضل أداة مجانية لتحويل ملفات PDF إلى Word مع دعم كامل للغة العربية. حوّل ملفاتك الآن بضغطة زر وبدقة متناهية.' name='description'/>
+            <meta content='أفضل أداة مجانية لتحويل ملفات PDF إلى Word مع دعم كامل للغة العربية.' property='og:description'/>
+            <meta content='أفضل أداة مجانية لتحويل ملفات PDF إلى Word مع دعم كامل للغة العربية.' name='twitter:description'/>
+        </b:if>
+        
+        <meta expr:content='data:blog.pageTitle' property='og:title'/>
+        <meta content='website' property='og:type'/>
+        <meta content='summary_large_image' name='twitter:card'/>
+        <meta expr:content='data:blog.pageTitle' name='twitter:title'/>
+    </b:if>
+
+    <!-- Common Meta Tags -->
+    <meta expr:content='data:blog.url' property='og:url'/>
+    <meta expr:content='data:blog.title' property='og:site_name'/>
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type='application/ld+json'>
+    {
+      &quot;@context&quot;: &quot;https://schema.org&quot;,
+      &quot;@graph&quot;: [
+        {
+          &quot;@type&quot;: &quot;SoftwareApplication&quot;,
+          &quot;name&quot;: &quot;PdfAraby&quot;,
+          &quot;url&quot;: &quot;<data:blog.url/>&quot;,
+          &quot;description&quot;: &quot;أفضل أداة مجانية لتحويل ملفات PDF إلى Word مع دعم كامل للغة العربية. حو&#1617;ل ملفاتك الآن بضغطة زر وبدقة متناهية.&quot;,
+          &quot;applicationCategory&quot;: &quot;ProductivityApplication&quot;,
+          &quot;operatingSystem&quot;: &quot;Web&quot;,
+          &quot;offers&quot;: {
+            &quot;@type&quot;: &quot;Offer&quot;,
+            &quot;price&quot;: &quot;0&quot;,
+            &quot;priceCurrency&quot;: &quot;USD&quot;
+          },
+          &quot;featureList&quot;: &quot;تحويل PDF إلى Word, دعم اللغة العربية, تحويل سريع, تحويل مجاني&quot;,
+          &quot;softwareVersion&quot;: &quot;1.0&quot;,
+          &quot;aggregateRating&quot;: {
+            &quot;@type&quot;: &quot;AggregateRating&quot;,
+            &quot;ratingValue&quot;: &quot;4.8&quot;,
+            &quot;ratingCount&quot;: &quot;1250&quot;
+          }
+        },
+        {
+          &quot;@type&quot;: &quot;BreadcrumbList&quot;,
+          &quot;itemListElement&quot;: [{
+            &quot;@type&quot;: &quot;ListItem&quot;,
+            &quot;position&quot;: 1,
+            &quot;name&quot;: &quot;Home&quot;,
+            &quot;item&quot;: &quot;<data:blog.homepageUrl/>&quot;
+          }<b:if cond='data:view.isPage or data:view.isPost'>,
+          {
+            &quot;@type&quot;: &quot;ListItem&quot;,
+            &quot;position&quot;: 2,
+            &quot;name&quot;: &quot;<data:blog.pageName/>&quot;,
+            &quot;item&quot;: &quot;<data:blog.url/>&quot;
+          }
+          </b:if>]
+        }
+      ]
+    }
+    </script>
+    
+    <!-- Tailwind CSS -->
+    <script src='https://cdn.tailwindcss.com'/>
+    
+    <!-- Font Awesome -->
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css' rel='stylesheet'/>
+
+
+    
+    <script>
+        //<![CDATA[
+        // Optimized Tailwind config - only used classes
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        brand: { DEFAULT: '#4b1f1f', hover: '#3d1919' },
+                        primary: { DEFAULT: '#6366f1', dark: '#4f46e5', light: '#818cf8' }
+                    },
+                    animation: {
+                        'float': 'float 3s ease-in-out infinite',
+                        'slid-up': 'slideUp 0.5s ease-out forwards',
+                    },
+                    keyframes: {
+                        float: {
+                            '0%, 100%': { transform: 'translateY(0)' },
+                            '50%': { transform: 'translateY(-5px)' }
+                        },
+                        slideUp: {
+                            '0%': { transform: 'translateY(20px)', opacity: '0' },
+                            '100%': { transform: 'translateY(0)', opacity: '1' }
+                        }
+                    }
+                }
+            }
+        }
+        //]]>
+    </script>
+
+    <b:skin><![CDATA[
+        /* Blogger Required CSS */
+        .navbar { display: none !important; }
+        #navbar-iframe { display: none !important; }
+        
+        * { font-family: 'Cairo', sans-serif; scroll-behavior: smooth; }
+        
+        body {
+            background-color: #ffffff;
+            color: #1e293b;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+        }
+        
+        .glass-card {
+            background: #ffffff;
+            border: 1px solid #e2e8f0;
+            box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.1);
+        }
+
+        .glass-header {
+            background: #4b1f1f;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .drop-zone { position: relative; overflow: hidden; transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); }
+        .drop-zone::before {
+            content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+            background: linear-gradient(45deg, transparent, rgba(99, 102, 241, 0.05), transparent);
+            transform: translateX(-100%); transition: transform 0.6s;
+        }
+        .drop-zone:hover::before { transform: translateX(100%); }
+        .drop-zone.dragover {
+            border-color: #6366f1; background: rgba(99, 102, 241, 0.05);
+            transform: scale(1.02); box-shadow: 0 0 25px rgba(99, 102, 241, 0.1);
+        }
+
+        .gradient-text {
+            background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+        }
+
+        .btn-premium {
+            background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+            box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3); transition: all 0.3s ease;
+        }
+        .btn-premium:hover { transform: translateY(-2px); box-shadow: 0 8px 25px rgba(99, 102, 241, 0.5); filter: brightness(1.1); }
+
+        .progress-line { height: 8px; background: #e2e8f0; border-radius: 4px; overflow: hidden; }
+        .progress-line-fill {
+            height: 100%; background: linear-gradient(90deg, #6366f1, #a855f7, #6366f1);
+            background-size: 200% 100%; animation: moveGradient 2s linear infinite; transition: width 0.3s ease;
+        }
+        @keyframes moveGradient { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+        /* Blogger LinkList Styling */
+        .header-nav ul, .footer-nav ul { list-style: none; padding: 0; margin: 0; display: flex; gap: 1.5rem; }
+        .header-nav a, .footer-nav a { color: #f8fafc; font-size: 0.875rem; font-weight: 600; transition: color 0.3s; text-decoration: none; }
+        .header-nav a:hover, .footer-nav a:hover { color: #fef08a; }
+        
+        /* Responsive adjustments */
+        @media (max-width: 640px) {
+            .header-nav ul { gap: 1rem; }
+            .header-nav a { font-size: 0.8rem; }
+        }
+    ]]></b:skin>
+</head>
+<body class='selection:bg-indigo-500/10'>
+    <!-- الهيدر -->
+    <header class='glass-header sticky top-0 z-50'>
+        <div class='container mx-auto px-6 py-3'>
+            <div class='flex items-center justify-between'>
+                <div class='flex items-center gap-3 group cursor-pointer'>
+                    <div class='bg-white p-2 rounded-xl rotate-[-10deg] group-hover:rotate-0 transition-transform duration-300 shadow-lg shadow-black/20'>
+                        <i class='fas fa-file-pdf text-xl text-[#4b1f1f]'/>
+                    </div>
+                    <div>
+                        <h1 class='text-lg md:text-xl font-extrabold tracking-tight text-white'>PdfAraby</h1>
+                        <p class='text-[9px] uppercase tracking-widest text-slate-300 font-bold'>تحويل pdf عربي</p>
+                    </div>
+                </div>
+                <!-- قائمة الروابط في الهيدر (Desktop) -->
+                <div class='hidden md:flex items-center gap-6'>
+                    <b:section class='header-nav' id='header-nav' showaddelement='yes'>
+                      <b:widget id='LinkList1' locked='false' title='القائمة العلوية' type='LinkList' version='2' visible='true'>
+                        <b:widget-settings>
+                          <b:widget-setting name='link-3'>https://pdfaraby.blogspot.com/p/blog-page_28.html</b:widget-setting>
+                          <b:widget-setting name='sorting'>NONE</b:widget-setting>
+                          <b:widget-setting name='link-4'>https://pdfaraby.blogspot.com/p/blog-page.html</b:widget-setting>
+                          <b:widget-setting name='text-1'>سياسة الخصوصية</b:widget-setting>
+                          <b:widget-setting name='link-1'>https://pdfaraby.blogspot.com/p/blog-page_203.html</b:widget-setting>
+                          <b:widget-setting name='text-0'>الرئيسية</b:widget-setting>
+                          <b:widget-setting name='link-2'>https://pdfaraby.blogspot.com/p/blog-page_813.html</b:widget-setting>
+                          <b:widget-setting name='text-3'>من نحن</b:widget-setting>
+                          <b:widget-setting name='link-0'>https://pdfaraby.blogspot.com</b:widget-setting>
+                          <b:widget-setting name='text-2'>اتفاقية الاستخدام</b:widget-setting>
+                          <b:widget-setting name='text-4'>اتصل بنا</b:widget-setting>
+                        </b:widget-settings>
+                        <b:includable id='main'>
+                                <nav>
+                                    <ul id='desktop-menu-list'>
+                                        <b:loop values='data:links' var='link'>
+                                            <li><a expr:href='data:link.target'><data:link.name/></a></li>
+                                        </b:loop>
+                                    </ul>
+                                </nav>
+                            </b:includable>
+                        <b:includable id='content'>
+                           <div class='widget-content'>
+                             <ul>
+                               <b:loop values='data:links' var='link'>
+                                 <li><a expr:href='data:link.target'><data:link.name/></a></li>
+                               </b:loop>
+                             </ul>
+                           </div>
+                        </b:includable>
+                      </b:widget>
+                    </b:section>
+                </div>
+
+                <!-- زر القائمة للجوال (Mobile Menu Button) -->
+                <button aria-label='Open Menu' class='md:hidden text-white text-2xl p-2' id='mobile-menu-btn'>
+                    <i class='fas fa-bars'/>
+                </button>
+            </div>
+        </div>
+
+        <!-- قائمة الجوال (Mobile Menu Drawer) -->
+        <div class='fixed inset-0 z-[100] hidden' id='mobile-menu-overlay'>
+            <!-- الخلفية الشفافة -->
+            <div class='absolute inset-0 bg-black/50 backdrop-blur-sm transition-opacity opacity-0' id='mobile-menu-backdrop'/>
+            
+            <!-- القائمة الجانبية -->
+            <div class='absolute right-0 top-0 bottom-0 w-[280px] bg-white shadow-2xl transform translate-x-full transition-transform duration-300 flex flex-col' id='mobile-menu-drawer'>
+                <div class='p-5 border-b border-slate-100 flex justify-between items-center bg-[#4b1f1f] text-white'>
+                    <span class='font-bold text-lg'>القائمة</span>
+                    <button class='w-8 h-8 flex items-center justify-center rounded-full hover:bg-white/10 transition-colors' id='close-menu-btn'>
+                        <i class='fas fa-times'/>
+                    </button>
+                </div>
+                <div class='flex-1 overflow-y-auto py-4'>
+                    <ul class='space-y-1' id='mobile-menu-items'>
+                        <!-- سيتم نسخ الروابط هنا بواسطة JavaScript -->
+                    </ul>
+                </div>
+                <div class='p-5 border-t border-slate-100 bg-slate-50'>
+                    <p class='text-xs text-center text-slate-400'>&#169; PdfAraby</p>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            //<![CDATA[
+            (function() {
+                const btn = document.getElementById('mobile-menu-btn');
+                const overlay = document.getElementById('mobile-menu-overlay');
+                const backdrop = document.getElementById('mobile-menu-backdrop');
+                const drawer = document.getElementById('mobile-menu-drawer');
+                const closeBtn = document.getElementById('close-menu-btn');
+                const desktopList = document.getElementById('desktop-menu-list');
+                const mobileList = document.getElementById('mobile-menu-items');
+                
+                // نسخ الروابط من القائمة العلوية إلى قائمة الجوال
+                if(desktopList && mobileList && mobileList.children.length === 0) {
+                    const links = desktopList.querySelectorAll('a');
+                    links.forEach(link => {
+                        const li = document.createElement('li');
+                        const a = document.createElement('a');
+                        a.href = link.href;
+                        a.textContent = link.textContent;
+                        a.className = 'block px-6 py-3 text-slate-700 hover:bg-indigo-50 hover:text-indigo-600 font-medium transition-colors border-r-2 border-transparent hover:border-indigo-600';
+                        li.appendChild(a);
+                        mobileList.appendChild(li);
+                    });
+                }
+
+                function openMenu() {
+                    overlay.classList.remove('hidden');
+                    // setTimeout للسماح بالانتقال (transition)
+                    setTimeout(() => {
+                        backdrop.classList.remove('opacity-0');
+                        drawer.classList.remove('translate-x-full');
+                    }, 10);
+                }
+
+                function closeMenu() {
+                    backdrop.classList.add('opacity-0');
+                    drawer.classList.add('translate-x-full');
+                    setTimeout(() => {
+                        overlay.classList.add('hidden');
+                    }, 300);
+                }
+
+                if(btn) btn.addEventListener('click', openMenu);
+                if(closeBtn) closeBtn.addEventListener('click', closeMenu);
+                if(backdrop) backdrop.addEventListener('click', closeMenu);
+            })();
+            //]]>
+        </script>
+    </header>
+
+    <main class='container mx-auto px-4 py-8 md:py-12'>
+        <div class='flex flex-col lg:flex-row gap-8 items-start'>
+            
+            <!-- Sidebar (الشريط الجانبي) -->
+            <aside class='w-full lg:w-1/4 space-y-6'>
+                <!-- قائمة الأدوات -->
+                <div class='bg-white rounded-[20px] shadow-sm border border-slate-100 overflow-hidden'>
+                    <div class='p-4 bg-[#4b1f1f] text-white'>
+                        <h3 class='font-bold text-lg'><i class='fas fa-toolbox text-yellow-400 ml-2'/> أدوات PDF</h3>
+                    </div>
+                    <nav class='flex flex-col p-2 space-y-1'>
+                        <a class='flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-slate-50 text-slate-700 hover:text-[#4b1f1f] transition-all font-bold group' href='/'>
+                            <span class='w-8 h-8 rounded-lg bg-red-50 text-red-500 flex items-center justify-center group-hover:bg-red-500 group-hover:text-white transition-colors'><i class='fas fa-file-word'/></span>
+                            تحويل PDF لـ Word
+                        </a>
+                        <a class='flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-slate-50 text-slate-700 hover:text-[#4b1f1f] transition-all font-bold group' href='/p/pdf.html'>
+                            <span class='w-8 h-8 rounded-lg bg-indigo-50 text-indigo-500 flex items-center justify-center group-hover:bg-indigo-500 group-hover:text-white transition-colors'><i class='fas fa-images'/></span>
+                            تحويل PDF لـ صور
+                        </a>
+                        <a class='flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-slate-50 text-slate-700 hover:text-[#4b1f1f] transition-all font-bold group' href='/p/pdf_01520063794.html'>
+                            <span class='w-8 h-8 rounded-lg bg-emerald-50 text-emerald-500 flex items-center justify-center group-hover:bg-emerald-500 group-hover:text-white transition-colors'><i class='fas fa-file-pdf'/></span>
+                            صور لـ PDF
+                        </a>
+                        <a class='flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-slate-50 text-slate-700 hover:text-[#4b1f1f] transition-all font-bold group' href='/p/pdf_77.html'>
+                            <span class='w-8 h-8 rounded-lg bg-blue-50 text-blue-500 flex items-center justify-center group-hover:bg-blue-500 group-hover:text-white transition-colors'><i class='fas fa-object-group'/></span>
+                            دمج ملفات PDF
+                        </a>
+                        <a class='flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-slate-50 text-slate-700 hover:text-[#4b1f1f] transition-all font-bold group' href='/p/pdf_29.html'>
+                            <span class='w-8 h-8 rounded-lg bg-orange-50 text-orange-500 flex items-center justify-center group-hover:bg-orange-500 group-hover:text-white transition-colors'><i class='fas fa-compress-arrows-alt'/></span>
+                            ضغط ملفات PDF
+                        </a>
+                    </nav>
+                </div>
+                
+                <!-- إعلان جانبي أو معلومات -->
+                <div class='bg-gradient-to-br from-indigo-500 to-purple-600 rounded-[20px] p-6 text-white text-center shadow-lg shadow-indigo-500/30'>
+                    <i class='fas fa-lock text-4xl mb-3 opacity-80'/>
+                    <h4 class='font-bold text-lg mb-2'>خصوصية تامة</h4>
+                    <p class='text-sm opacity-90 leading-relaxed text-indigo-100'>يتم حذف جميع ملفاتك تلقائيا&#1611; بعد ساعة واحدة من التحويل.</p>
+                </div>
+            </aside>
+            
+            <!-- المحتوى الرئيسي (Main Content) -->
+            <div class='w-full lg:w-3/4'>
+                <b:section id='content-section' showaddelement='yes'>
+                  <b:widget id='HTML1' locked='false' title='Converter App' type='HTML' version='2' visible='true'>
+                    <b:widget-settings>
+                      <b:widget-setting name='content'><![CDATA[<!-- ============================
+                                     أداة 1: PDF إلى Word (الرئيسية)
+                                     ============================ -->
+                                <div id="tool-pdf-to-word" class="tool-content">
+                                    <!-- قسم العنوان -->
+                                    <div class="text-center mb-8 animate-slid-up">
+                                        <h2 class="text-3xl md:text-5xl font-black mb-4 leading-tight text-slate-900">
+                                            حوّل ملفات <span class="gradient-text">PDF</span> إلى <span class="text-indigo-600">Word</span> 
+                                        </h2>
+                                        <p class="text-md text-slate-500 font-medium mb-6">
+                                            أداة احترافية لتحويل النصوص العربية بدقة متناهية.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- ============================
+                                     أداة 2: PDF إلى صور
+                                     ============================ -->
+                                <div id="tool-pdf-to-image" class="tool-content hidden">
+                                    <div class="text-center mb-8 animate-slid-up">
+                                        <h2 class="text-3xl md:text-5xl font-black mb-4 leading-tight text-slate-900">
+                                            تحويل <span class="text-indigo-600">PDF</span> إلى <span class="gradient-text">صور</span> 
+                                        </h2>
+                                        <p class="text-md text-slate-500 font-medium mb-6">
+                                            استخرج صفحات ملف PDF كصور JPG عالية الجودة.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- ============================
+                                     أداة 3: صور إلى PDF
+                                     ============================ -->
+                                <div id="tool-image-to-pdf" class="tool-content hidden">
+                                    <div class="text-center mb-8 animate-slid-up">
+                                        <h2 class="text-3xl md:text-5xl font-black mb-4 leading-tight text-slate-900">
+                                            تحويل <span class="text-emerald-500">الصور</span> إلى <span class="gradient-text">PDF</span> 
+                                        </h2>
+                                        <p class="text-md text-slate-500 font-medium mb-6">
+                                            اجمع صورك في ملف PDF واحد بسهولة.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- ============================
+                                     أداة 4: دمج PDF
+                                     ============================ -->
+                                <div id="tool-merge-pdf" class="tool-content hidden">
+                                    <div class="text-center mb-8 animate-slid-up">
+                                        <h2 class="text-3xl md:text-5xl font-black mb-4 leading-tight text-slate-900">
+                                            <span class="text-blue-500">دمج</span> ملفات <span class="gradient-text">PDF</span> 
+                                        </h2>
+                                        <p class="text-md text-slate-500 font-medium mb-6">
+                                            ادمج ملفات PDF متعددة في ملف واحد منظم.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- ============================
+                                     أداة 5: ضغط PDF
+                                     ============================ -->
+                                <div id="tool-compress-pdf" class="tool-content hidden">
+                                    <div class="text-center mb-8 animate-slid-up">
+                                        <h2 class="text-3xl md:text-5xl font-black mb-4 leading-tight text-slate-900">
+                                            <span class="text-orange-500">ضغط</span> ملفات <span class="gradient-text">PDF</span> 
+                                        </h2>
+                                        <p class="text-md text-slate-500 font-medium mb-6">
+                                            قلل حجم ملفاتك مع الحفاظ على الجودة.
+                                        </p>
+                                    </div>
+                                </div>
+
+                        <!-- البطاقة الرئيسية -->
+                        <div class="max-w-2xl mx-auto glass-card rounded-[24px] overflow-hidden animate-slid-up [animation-delay:200ms]">
+                            <div class="bg-slate-50/50 p-4 md:p-8">
+                                <div id="uploadSection" class="space-y-6">
+                                    <div id="dropZone" class="drop-zone border-2 border-dashed border-slate-300 bg-white rounded-xl p-6 text-center cursor-pointer group hover:border-indigo-400 hover:bg-indigo-50/30 transition-all">
+                                        <div class="mb-4">
+                                            <i class="fas fa-cloud-upload-alt text-4xl text-indigo-500 animate-float"></i>
+                                        </div>
+                                        <h3 class="text-xl font-bold mb-2 group-hover:text-indigo-600 transition-colors">اسحب ملف PDF وأفلته هنا</h3>
+                                        <p class="text-slate-400 text-sm mb-6">أو انقر لاختيار ملف من جهازك</p>
+                                        <label for="fileInput" class="btn-premium text-white px-8 py-3 rounded-lg cursor-pointer inline-flex items-center gap-2 font-bold text-md">
+                                            <i class="fas fa-plus"></i> اختر الملف
+                                        </label>
+                                        <input type="file" id="fileInput" accept=".pdf" class="hidden"/>
+                                    </div>
+                                    
+                                    <!-- بطاقة الإحصائيات (موقع جديد) -->
+                                    <div class="flex justify-center">
+                                        <div class="inline-flex items-center gap-3 bg-slate-50 border border-slate-200 px-6 py-3 rounded-full shadow-sm">
+                                            <span class="flex items-center justify-center w-8 h-8 rounded-full bg-indigo-100 text-indigo-600">
+                                                <i class="fas fa-users text-sm"></i>
+                                            </span>
+                                            <div class="text-right">
+                                                <span class="block text-xs text-slate-500 font-bold">مستخدمين يثقون بنا</span>
+                                                <span class="block text-lg font-black text-slate-800 leading-none" id="userCount">...</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div id="fileInfo" class="hidden animate-slid-up">
+                                        <div class="bg-indigo-50 border border-indigo-100 rounded-xl p-4 flex items-center justify-between">
+                                            <div class="flex items-center gap-3">
+                                                <div class="bg-red-100 p-2 rounded-lg"><i class="fas fa-file-pdf text-xl text-red-500"></i></div>
+                                                <div><p class="font-bold text-slate-800 text-sm" id="fileName"></p><p class="text-xs text-slate-400 font-bold" id="fileSize"></p></div>
+                                            </div>
+                                            <button id="removeFile" class="text-slate-400 hover:text-red-500 transition-colors p-1"><i class="fas fa-times"></i></button>
+                                        </div>
+                                    </div>
+
+
+                                    <button id="convertBtn" class="hidden btn-premium w-full text-white py-4 rounded-xl font-bold text-lg flex items-center justify-center gap-2">
+
+                                        <i class="fas fa-magic"></i> ابدأ التحويل الآن
+                                    </button>
+                                </div>
+                                <div id="convertingSection" class="hidden space-y-6 py-4 animate-slid-up">
+                                    <div class="text-center">
+                                        <i class="fas fa-circle-notch text-5xl text-indigo-500 animate-spin mb-4"></i>
+                                        <h3 class="text-xl font-black mb-1">جاري التحويل...</h3>
+                                        <p class="text-slate-400 text-sm font-medium">نحن نعالج نصوصك العربية بدقة</p>
+                                    </div>
+                                    <div class="space-y-2">
+                                        <div class="flex justify-between text-xs font-bold text-slate-400 mb-1"><span id="statusText">جاري المعالجة...</span><span id="progressText">0%</span></div>
+                                        <div class="progress-line"><div id="progressBar" class="progress-line-fill" style="width: 0%"></div></div>
+                                    </div>
+                                </div>
+                                <div id="successSection" class="hidden text-center space-y-6 py-4 animate-slid-up">
+                                    <div class="w-16 h-16 bg-emerald-100 border-2 border-emerald-200 rounded-full flex items-center justify-center mx-auto"><i class="fas fa-check text-2xl text-emerald-500"></i></div>
+                                    <div><h3 class="text-2xl font-black mb-1 text-slate-900">انتهى التحويل!</h3><p class="text-slate-500 text-sm">ملفك جاهز للتحميل</p></div>
+                                    <div class="flex flex-col gap-3 pt-2">
+                                        <button id="downloadBtn" class="bg-emerald-500 hover:bg-emerald-600 text-white w-full py-4 rounded-xl font-bold text-lg flex items-center justify-center gap-2 transition-all shadow-lg shadow-emerald-500/20"><i class="fas fa-download"></i> تحميل (DOCX)</button>
+                                        <button id="convertAnotherBtn" class="text-indigo-600 font-bold hover:underline">تحويل ملف آخر</button>
+                                    </div>
+                                </div>
+                                <div id="errorSection" class="hidden animate-slid-up">
+                                    <div class="text-center space-y-4">
+                                        <i class="fas fa-exclamation-triangle text-4xl text-red-500"></i>
+                                        <div><h3 class="text-lg font-bold text-slate-800 mb-1">حدث خطأ</h3><p class="text-slate-500 text-sm" id="errorMessage"></p></div>
+                                        <button id="tryAgainBtn" class="bg-slate-800 hover:bg-slate-900 text-white px-6 py-3 rounded-lg font-bold transition-all">حاول مرة أخرى</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>]]></b:widget-setting>
+                    </b:widget-settings>
+                    <b:includable id='main'>
+                    <data:content/>
+                </b:includable>
+                  </b:widget>
+                  <b:widget id='Blog1' locked='false' title='رسائل المدونة الإلكترونية' type='Blog' version='2' visible='true'>
+                    <b:widget-settings>
+                      <b:widget-setting name='showDateHeader'>false</b:widget-setting>
+                      <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
+                      <b:widget-setting name='showShareButtons'>false</b:widget-setting>
+                      <b:widget-setting name='showCommentLink'>false</b:widget-setting>
+                      <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
+                      <b:widget-setting name='showAuthor'>false</b:widget-setting>
+                      <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
+                      <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+                      <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+                      <b:widget-setting name='reactionsLabel'/>
+                      <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+                      <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+                      <b:widget-setting name='showLabels'>true</b:widget-setting>
+                      <b:widget-setting name='showLocation'>true</b:widget-setting>
+                      <b:widget-setting name='showTimestamp'>false</b:widget-setting>
+                      <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+                      <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+                      <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+                      <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+                      <b:widget-setting name='showReactions'>false</b:widget-setting>
+                    </b:widget-settings>
+                    <b:includable id='main'>
+                    <b:loop values='data:posts' var='post'>
+                        <article class='max-w-4xl mx-auto glass-card rounded-[24px] p-6 md:p-10 mb-8 animate-slid-up'>
+                            <b:if cond='data:view.isPage or data:view.isPost'>
+                                <h1 class='text-3xl md:text-4xl font-black mb-8 text-slate-800 border-b border-slate-100 pb-4'>
+                                    <data:post.title/>
+                                </h1>
+                            </b:if>
+                            
+                            <div class='prose prose-lg max-w-none prose-slate font-cairo leading-loose'>
+                                <data:post.body/>
+                            </div>
+                        </article>
+                    </b:loop>
+                    <!-- رسالة في حال عدم وجود مشاركات (اختياري) -->
+                    <b:if cond='data:numPosts == 0'>
+                        <div class='text-center py-10 hidden'>
+                            <p class='text-slate-500'>لا توجد مشاركات هنا.</p>
+                        </div>
+                    </b:if>
+                </b:includable>
+                    <b:includable id='aboutPostAuthor'>
+  <div class='author-name'>
+    <a class='g-profile' expr:href='data:post.author.profileUrl' rel='author' title='author profile'>
+      <span>
+        <data:post.author.name/>
+      </span>
+    </a>
+  </div>
+  <div>
+    <span class='author-desc'>
+      <data:post.author.aboutMe/>
+    </span>
+  </div>
+</b:includable>
+                    <b:includable id='addComments'>
+  <a expr:href='data:post.commentsUrl' expr:onclick='data:post.commentsUrlOnclick'>
+    <b:message name='messages.postAComment'/>
+  </a>
+</b:includable>
+                    <b:includable id='commentAuthorAvatar'>
+  <div class='avatar-image-container'>
+    <img class='author-avatar' expr:src='data:comment.authorAvatarSrc' height='35' width='35'/>
+  </div>
+</b:includable>
+                    <b:includable id='commentDeleteIcon' var='comment'>
+  <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+    <b:if cond='data:showCmtPopup'>
+      <div class='goog-toggle-button'>
+        <div class='goog-inline-block comment-action-icon'/>
+      </div>
+    <b:else/>
+      <a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:messages.deleteComment'>
+        <img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+      </a>
+    </b:if>
+  </span>
+</b:includable>
+                    <b:includable id='commentForm' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <h4 id='comment-post-message'><data:messages.postAComment/></h4>
+    <b:if cond='data:this.messages.blogComment != &quot;&quot;'>
+      <p><data:this.messages.blogComment/></p>
+    </b:if>
+    <b:include data='post' name='commentFormIframeSrc'/>
+    <iframe allowtransparency='allowtransparency' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight ?: &quot;90px&quot;' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+                    <b:includable id='commentFormIframeSrc' var='post'>
+  <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+</b:includable>
+                    <b:includable id='commentItem' var='comment'>
+  <div class='comment' expr:id='&quot;c&quot; + data:comment.id'>
+    <b:include cond='data:blog.enabledCommentProfileImages' name='commentAuthorAvatar'/>
+
+    <div class='comment-block'>
+      <div class='comment-author'>
+        <b:if cond='data:comment.authorUrl'>
+          <b:message name='messages.authorSaidWithLink'>
+            <b:param expr:value='data:comment.author' name='authorName'/>
+            <b:param expr:value='data:comment.authorUrl' name='authorUrl'/>
+          </b:message>
+        <b:else/>
+          <b:message name='messages.authorSaid'>
+            <b:param expr:value='data:comment.author' name='authorName'/>
+          </b:message>
+        </b:if>
+      </div>
+      <div expr:class='&quot;comment-body&quot; + (data:comment.isDeleted ? &quot; deleted&quot; : &quot;&quot;)'>
+        <data:comment.body/>
+      </div>
+      <div class='comment-footer'>
+        <span class='comment-timestamp'>
+          <a expr:href='data:comment.url' title='comment permalink'>
+            <data:comment.timestamp/>
+          </a>
+          <b:include data='comment' name='commentDeleteIcon'/>
+        </span>
+      </div>
+    </div>
+  </div>
+</b:includable>
+                    <b:includable id='commentList' var='comments'>
+  <div id='comments-block'>
+    <b:loop values='data:comments' var='comment'>
+      <b:include data='comment' name='commentItem'/>
+    </b:loop>
+  </div>
+</b:includable>
+                    <b:includable id='commentPicker' var='post'>
+  <b:if cond='data:post.showThreadedComments'>
+    <b:include data='post' name='threadedComments'/>
+  <b:else/>
+    <b:include data='post' name='comments'/>
+  </b:if>
+</b:includable>
+                    <b:includable id='comments' var='post'>
+  <section expr:class='&quot;comments&quot; + (data:post.embedCommentForm ? &quot; embed&quot; : &quot;&quot;)' expr:data-num-comments='data:post.numberOfComments' id='comments'>
+    <a name='comments'/>
+    <b:if cond='data:post.allowComments'>
+
+      <b:include name='commentsTitle'/>
+
+      <div expr:id='data:widget.instanceId + &quot;_comments-block-wrapper&quot;'>
+        <b:include cond='data:post.comments' data='post.comments' name='commentList'/>
+      </div>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <div class='paging-control-container'>
+          <b:if cond='data:post.hasOlderLinks'>
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'>
+              <data:messages.oldest/>
+            </a>
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'>
+              <data:messages.older/>
+            </a>
+          </b:if>
+
+          <span class='comment-range-text'>
+            <data:post.commentRangeText/>
+          </span>
+
+          <b:if cond='data:post.hasNewerLinks'>
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'>
+              <data:messages.newer/>
+            </a>
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'>
+              <data:messages.newest/>
+            </a>
+          </b:if>
+        </div>
+      </b:if>
+
+      <div class='footer'>
+        <b:if cond='data:post.embedCommentForm'>
+          <b:if cond='data:post.allowNewComments'>
+            <b:include data='post' name='commentForm'/>
+          <b:else/>
+            <data:post.noNewCommentsText/>
+          </b:if>
+        <b:else/>
+          <b:if cond='data:post.allowComments'>
+            <b:include data='post' name='addComments'/>
+          </b:if>
+        </b:if>
+      </div>
+    </b:if>
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='allowtransparency' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+  </section>
+</b:includable>
+                    <b:includable id='commentsTitle'>
+  <h3 class='title'><data:messages.comments/></h3>
+</b:includable>
+                    <b:includable id='feedLinks'>
+  <b:if cond='!data:view.isPost'> <!-- Blog feed links -->
+    <b:if cond='data:feedLinks'>
+      <div class='blog-feeds'>
+        <b:include data='feedLinks' name='feedLinksBody'/>
+      </div>
+    </b:if>
+  <b:else/> <!--Post feed links -->
+    <div class='post-feeds'>
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.allowComments and data:post.feedLinks'>
+          <b:include data='post.feedLinks' name='feedLinksBody'/>
+        </b:if>
+      </b:loop>
+    </div>
+  </b:if>
+</b:includable>
+                    <b:includable id='feedLinksBody' var='links'>
+  <div class='feed-links'>
+  <data:messages.subscribeTo/>
+  <b:loop values='data:links' var='f'>
+     <a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'><data:f.name/> (<data:f.feedType/>)</a>
+  </b:loop>
+  </div>
+</b:includable>
+                    <b:includable id='homePageLink'>
+  <a class='home-link' expr:href='data:blog.homepageUrl'>
+    <data:messages.home/>
+  </a>
+</b:includable>
+                    <b:includable id='iframeComments' var='post'>
+  <!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+                    <b:includable id='inlineAd' var='post'>
+  <b:if cond='!data:view.isPreview'>
+    <b:if cond='data:this.adCode or data:this.adClientId or data:blog.adsenseClientId'>
+      <!-- Ad -->
+      <div class='inline-ad'>
+        <b:if cond='data:this.adCode != &quot;&quot;'>
+          <data:this.adCode/>
+        <b:else/>
+          <b:include cond='data:this.adClientId or data:blog.adsenseClientId' name='defaultAdUnit'/>
+        </b:if>
+      </div>
+    </b:if>
+  <b:else/>
+    <div class='inline-ad'>
+      <div class='inline-ad-placeholder'>
+        <span><b:message name='messages.adsGoHere'/></span>
+      </div>
+    </div>
+  </b:if>
+</b:includable>
+                    <b:includable id='nextPageLink'>
+  <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:messages.olderPosts'>
+    <data:messages.olderPosts/>
+  </a>
+</b:includable>
+                    <b:includable id='post' var='post'>
+  <div class='post'>
+    <b:include data='post' name='postMeta'/>
+    <b:include data='post' name='postTitle'/>
+    <b:include name='headerByline'/>
+    <b:if cond='data:view.isSingleItem'>
+      <b:include data='post' name='postBody'/>
+    <b:else/>
+      <b:include data='post' name='postBodySnippet'/>
+      <b:include data='post' name='postJumpLink'/>
+    </b:if>
+    <b:include data='post' name='postFooter'/>
+  </div>
+</b:includable>
+                    <b:includable id='postBody' var='post'>
+  <!-- If metaDescription is empty, use the post body as the schema.org description too, for G+/FB snippeting. -->
+  <div class='post-body entry-content float-container' expr:id='&quot;post-body-&quot; + data:post.id'>
+    <data:post.body/>
+  </div>
+</b:includable>
+                    <b:includable id='postBodySnippet' var='post'>
+  <b:include data='post' name='postBody'/>
+</b:includable>
+                    <b:includable id='postCommentsAndAd' var='post'>
+  <article class='post-outer-container'>
+    <!-- Post title and body -->
+    <div class='post-outer'>
+      <b:include data='post' name='post'/>
+    </div>
+
+    <!-- Comments -->
+    <b:include cond='data:view.isSingleItem' data='post' name='commentPicker'/>
+
+    <!-- Show ad inside post container, after comments, if single item. -->
+    <b:include cond='data:view.isSingleItem and data:post.includeAd' data='post' name='inlineAd'/>
+  </article>
+
+  <!-- Show ad outside post container (between posts) for feed pages. -->
+  <b:include cond='data:view.isMultipleItems and data:post.includeAd' data='post' name='inlineAd'/>
+</b:includable>
+                    <b:includable id='postCommentsLink'>
+  <b:if cond='data:view.isMultipleItems'>
+    <span class='byline post-comment-link container'>
+      <b:include cond='data:post.commentSource != 1' name='commentsLink'/>
+    </span>
+  </b:if>
+</b:includable>
+                    <b:includable id='postFooter' var='post'>
+  <div class='post-footer'>
+    <b:include name='footerBylines'/>
+    <b:include data='post' name='postFooterAuthorProfile'/>
+  </div>
+</b:includable>
+                    <b:includable id='postFooterAuthorProfile' var='post'>
+  <b:if cond='data:post.author.aboutMe and data:view.isPost'>
+    <div class='author-profile'>
+      <b:if cond='data:post.author.authorPhoto.url'>
+        <img class='author-image' expr:src='data:post.author.authorPhoto.url' width='50px'/>
+        <div class='author-about'>
+          <b:include data='post' name='aboutPostAuthor'/>
+        </div>
+      <b:else/>
+        <b:include data='post' name='aboutPostAuthor'/>
+      </b:if>
+    </div>
+  </b:if>
+</b:includable>
+                    <b:includable id='postHeader' var='post'>
+  <b:include name='headerByline'/>
+</b:includable>
+                    <b:includable id='postMeta' var='post'>
+  <b:include data='post' name='postMetadataJSON'/>
+</b:includable>
+                    <b:includable id='postPagination'>
+  <div class='blog-pager container' id='blog-pager'>
+    <b:include cond='data:newerPageUrl' name='previousPageLink'/>
+    <b:include cond='data:olderPageUrl' name='nextPageLink'/>
+    <b:include cond='data:view.url != data:blog.homepageUrl' name='homePageLink'/>
+  </div>
+</b:includable>
+                    <b:includable id='postTitle' var='post'>
+  <a expr:name='data:post.id'/>
+  <b:if cond='data:post.title != &quot;&quot;'>
+    <h3 class='post-title entry-title'>
+      <b:if cond='data:post.link or (data:post.url and data:view.url != data:post.url)'>
+        <a expr:href='data:post.link ?: data:post.url'><data:post.title/></a>
+      <b:else/>
+        <data:post.title/>
+      </b:if>
+    </h3>
+  </b:if>
+</b:includable>
+                    <b:includable id='previousPageLink'>
+  <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:messages.newerPosts'>
+    <data:messages.newerPosts/>
+  </a>
+</b:includable>
+                    <b:includable id='threadedCommentForm' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <h4 id='comment-post-message'><data:messages.postAComment/></h4>
+    <b:if cond='data:this.messages.blogComment != &quot;&quot;'>
+      <p><data:this.messages.blogComment/></p>
+    </b:if>
+    <b:include data='post' name='commentFormIframeSrc'/>
+    <iframe allowtransparency='allowtransparency' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight ?: &quot;90px&quot;' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+                    <b:includable id='threadedCommentJs' var='post'>
+  <script async='async' expr:src='data:post.commentSrc' type='text/javascript'/>
+  <b:template-script inline='true' name='threaded_comments'/>
+  <script type='text/javascript'>
+    blogger.widgets.blog.initThreadedComments(
+        <data:post.commentJso/>,
+        <data:post.commentMsgs/>,
+        <data:post.commentConfig/>);
+  </script>
+</b:includable>
+                    <b:includable id='threadedComments' var='post'>
+  <section class='comments threaded' expr:data-embed='data:post.embedCommentForm' expr:data-num-comments='data:post.numberOfComments' id='comments'>
+    <a name='comments'/>
+
+    <b:include name='commentsTitle'/>
+
+    <div class='comments-content'>
+      <b:if cond='data:post.embedCommentForm'>
+        <b:include data='post' name='threadedCommentJs'/>
+      </b:if>
+      <div id='comment-holder'>
+         <data:post.commentHtml/>
+      </div>
+    </div>
+
+    <p class='comment-footer'>
+      <b:if cond='data:post.allowNewComments'>
+        <b:include data='post' name='threadedCommentForm'/>
+      <b:else/>
+        <data:post.noNewCommentsText/>
+      </b:if>
+      <b:if cond='data:post.showManageComments'>
+        <b:include data='post' name='manageComments'/>
+      </b:if>
+    </p>
+
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='allowtransparency' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+  </section>
+</b:includable>
+                    <b:includable id='tooltipCss'>
+  <!-- LINT.IfChange -->
+  <style>
+    .post-body a.b-tooltip-container {
+      position: relative;
+      display: inline-block;
+    }
+
+    .post-body a.b-tooltip-container .b-tooltip {
+      display: block !important;
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translate(-20%, 1px);
+      visibility: hidden;
+      opacity: 0;
+      z-index: 1;
+      transition: opacity 0.2s ease-in-out;
+    }
+
+    .post-body a.b-tooltip-container .b-tooltip iframe {
+      width: 200px;
+      height: 198px;
+      max-width: none;
+      border: none;
+      border-radius: 20px;
+      box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.2);
+    }
+
+    @media (hover: hover) {
+      .post-body a.b-tooltip-container:hover .b-tooltip {
+        visibility: visible;
+        opacity: 1;
+      }
+    }
+  </style>
+  <!-- LINT.ThenChange(//depot/google3/java/com/google/blogger/b2/layouts/widgets/v2-style.css) -->
+</b:includable>
+                  </b:widget>
+                </b:section>
+       </div>
+    </div>
+    </main>
+
+    <!-- الفوتر -->
+    <footer class='mt-12 pt-12 pb-8' style='background-color: #4b1f1f; color: #f8fafc;'>
+        <div class='container mx-auto px-6'>
+            <div class='flex flex-col md:flex-row justify-between items-center gap-8 mb-10'>
+                <div class='flex items-center gap-2'>
+                    <i class='fas fa-file-pdf text-2xl text-white'/>
+                    <h3 class='text-xl font-black text-white'>PdfAraby</h3>
+                </div>
+                <b:section class='footer-nav' id='footer-nav' showaddelement='yes'>
+                  <b:widget id='LinkList2' locked='false' title='روابط سريعة' type='LinkList' version='2' visible='true'>
+                    <b:includable id='main'>
+                            <ul class='flex gap-6 text-slate-100 font-medium text-sm'>
+                                <b:loop values='data:links' var='link'>
+                                    <li><a class='hover:text-yellow-200 transition-colors' expr:href='data:link.target'><data:link.name/></a></li>
+                                </b:loop>
+                            </ul>
+                        </b:includable>
+                    <b:includable id='content'>
+ <div class='widget-content'>
+   <ul>
+     <b:loop values='data:links' var='link'>
+       <li><a expr:href='data:link.target'><data:link.name/></a></li>
+     </b:loop>
+   </ul>
+ </div>
+</b:includable>
+                  </b:widget>
+                </b:section>
+
+                <!-- Social Media Icons (Left Side) -->
+                <div class='flex items-center gap-4'>
+                    <a class='w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 hover:scale-110 transition-all text-white' href='https://www.facebook.com/elazharytech' title='Facebook'>
+                        <i class='fab fa-facebook-f'/>
+                    </a>
+                    <a class='w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 hover:scale-110 transition-all text-white' href='#' title='Twitter'>
+                        <i class='fab fa-twitter'/>
+                    </a>
+                    <a class='w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 hover:scale-110 transition-all text-white' href='#' title='Instagram'>
+                        <i class='fab fa-instagram'/>
+                    </a>
+                    <a class='w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 hover:scale-110 transition-all text-white' href='#' title='LinkedIn'>
+                        <i class='fab fa-linkedin-in'/>
+                    </a>
+                </div>
+            </div>
+            <div class='pt-6 border-t border-white/10 text-center text-slate-300'>
+                <p class='text-xs font-bold'>&#169; <span id='currentYear'/> جميع الحقوق محفوظة لـ PdfAraby.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Cookie Consent Banner -->
+    <div class='fixed bottom-0 left-0 right-0 z-[200] transform translate-y-full transition-transform duration-500 ease-in-out' id='cookieBanner'>
+        <div class='max-w-4xl mx-auto m-4 md:mb-6'>
+            <div class='bg-[#1e293b]/95 backdrop-blur-md text-white p-4 md:p-6 rounded-2xl shadow-2xl border border-slate-700 flex flex-col md:flex-row items-center gap-4 md:gap-8 justify-between'>
+                <div class='flex items-center gap-4'>
+                    <div class='hidden md:flex bg-indigo-500/20 w-12 h-12 rounded-full items-center justify-center shrink-0'>
+                        <i class='fas fa-cookie-bite text-2xl text-indigo-400'/>
+                    </div>
+                    <div>
+                        <h4 class='font-bold text-lg mb-1'>نحن نستخدم ملفات تعريف الارتباط 🍪</h4>
+                        <p class='text-slate-300 text-sm leading-relaxed'>
+                            نستخدم الكوكيز لتحسين تجربتك وتخصيص المحتوى. استمرارك في التصفح يعني موافقتك على 
+                            <a class='text-indigo-400 hover:text-indigo-300 underline underline-offset-4' href='https://pdfaraby.blogspot.com/p/blog-page_28.html'>سياسة الخصوصية</a>.
+                        </p>
+                    </div>
+                </div>
+                <div class='flex gap-3 w-full md:w-auto shrink-0'>
+                    <button class='bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-2.5 rounded-xl font-bold transition-all shadow-lg shadow-indigo-500/30 flex-1 md:flex-none text-center' id='acceptCookies'>
+                        موافق
+                    </button>
+                    <button class='bg-white/10 hover:bg-white/20 text-white px-4 py-2.5 rounded-xl font-bold transition-all flex-1 md:flex-none text-center' id='closeCookieBanner'>
+                        إغلاق
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type='text/javascript'>
+        //<![CDATA[
+        // Cookie Banner Logic
+        document.addEventListener('DOMContentLoaded', () => {
+            const banner = document.getElementById('cookieBanner');
+            const acceptBtn = document.getElementById('acceptCookies');
+            const closeBtn = document.getElementById('closeCookieBanner');
+            
+            // Check if user already accepted
+            if (!localStorage.getItem('cookiesAccepted')) {
+                // Show banner after a small delay
+                setTimeout(() => {
+                    banner.classList.remove('translate-y-full');
+                }, 2000);
+            }
+
+            const hideBanner = () => {
+                banner.classList.add('translate-y-full');
+            };
+
+            acceptBtn.addEventListener('click', () => {
+                localStorage.setItem('cookiesAccepted', 'true');
+                hideBanner();
+            });
+
+            closeBtn.addEventListener('click', hideBanner);
+        });
+
+        const API_BASE_URL = "https://pdfaraby.onrender.com";
+
+        // === Tool Configuration ===
+        const TOOLS = {
+            'HOME': { id: 'tool-pdf-to-word', endpoint: '/convert', method: 'POST', type: 'pdf', multiple: false, title: 'PDF to Word' },
+            'PDF_TO_IMAGE': { id: 'tool-pdf-to-image', endpoint: '/convert/to-image', method: 'POST', type: 'pdf', multiple: false, title: 'PDF to Image' },
+            'IMAGE_TO_PDF': { id: 'tool-image-to-pdf', endpoint: '/convert/from-image', method: 'POST', type: 'image', multiple: true, title: 'Image to PDF' },
+            'MERGE_PDF': { id: 'tool-merge-pdf', endpoint: '/merge', method: 'POST', type: 'pdf', multiple: true, title: 'Merge PDF' },
+            'COMPRESS_PDF': { id: 'tool-compress-pdf', endpoint: '/compress', method: 'POST', type: 'pdf', multiple: false, title: 'Compress PDF' }
+        };
+
+        // Determine current tool based on URL
+        let currentToolKey = 'HOME';
+        const path = window.location.pathname;
+        
+        // Check for specific generated Blogger pages
+        if (path.includes('/p/pdf.html')) currentToolKey = 'PDF_TO_IMAGE';
+        else if (path.includes('/p/pdf_01520063794.html')) currentToolKey = 'IMAGE_TO_PDF';
+        else if (path.includes('/p/pdf_77.html')) currentToolKey = 'MERGE_PDF';
+        else if (path.includes('/p/pdf_29.html')) currentToolKey = 'COMPRESS_PDF';
+
+        const currentTool = TOOLS[currentToolKey];
+        
+        // Show active tool UI
+        document.querySelectorAll('.tool-content').forEach(el => el.classList.add('hidden'));
+        document.getElementById(currentTool.id).classList.remove('hidden');
+
+        // === Drag & Drop Logic ===
+        let selectedFiles = [];
+        const MAX_FILE_SIZE = 30 * 1024 * 1024;
+
+        const dropZone = document.getElementById('dropZone');
+        const fileInput = document.getElementById('fileInput');
+        const fileInfo = document.getElementById('fileInfo');
+        const removeFile = document.getElementById('removeFile');
+        const convertBtn = document.getElementById('convertBtn');
+        const uploadSection = document.getElementById('uploadSection');
+        const convertingSection = document.getElementById('convertingSection');
+        const successSection = document.getElementById('successSection');
+        const errorSection = document.getElementById('errorSection');
+        const progressBar = document.getElementById('progressBar');
+        const progressText = document.getElementById('progressText');
+        const errorMessage = document.getElementById('errorMessage');
+        const downloadBtn = document.getElementById('downloadBtn');
+        const convertAnotherBtn = document.getElementById('convertAnotherBtn');
+        const tryAgainBtn = document.getElementById('tryAgainBtn');
+
+        // Update Input Attributes based on tool
+        if (currentTool.multiple) fileInput.setAttribute('multiple', 'true');
+        fileInput.setAttribute('accept', currentTool.type === 'pdf' ? '.pdf' : '.jpg,.jpeg,.png');
+
+        // Dynamic Text Updates
+        document.querySelector('#dropZone h3').textContent = currentTool.type === 'pdf' ? 
+            (currentTool.multiple ? 'اسحب ملفات PDF هنا' : 'اسحب ملف PDF هنا') : 
+            'اسحب الصور هنا';
+
+        ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
+            dropZone.addEventListener(eventName, e => { e.preventDefault(); e.stopPropagation(); }, false);
+        });
+
+        ['dragenter', 'dragover'].forEach(eventName => {
+            dropZone.addEventListener(eventName, () => dropZone.classList.add('dragover'), false);
+        });
+
+        ['dragleave', 'drop'].forEach(eventName => {
+            dropZone.addEventListener(eventName, () => dropZone.classList.remove('dragover'), false);
+        });
+
+        dropZone.addEventListener('drop', e => handleFiles(e.dataTransfer.files), false);
+        fileInput.addEventListener('change', e => handleFiles(e.target.files));
+
+        function handleFiles(files) {
+            if (files.length === 0) return;
+            
+            // Validation
+            const validFiles = Array.from(files).filter(file => {
+                if (currentTool.type === 'pdf' && !file.type.includes('pdf')) return false;
+                if (currentTool.type === 'image' && !file.type.includes('image')) return false;
+                return true;
+            });
+
+            if (validFiles.length === 0) { showError('نوع الملف غير مدعوم لهذه الأداة.'); return; }
+            
+            // Check Size
+            const totalSize = validFiles.reduce((acc, file) => acc + file.size, 0);
+            if (totalSize > MAX_FILE_SIZE) { showError('حجم الملفات كبير جداً (الحد الأقصى 30 ميجابايت).'); return; }
+
+            selectedFiles = currentTool.multiple ? validFiles : [validFiles[0]];
+            
+            // Update UI
+            document.getElementById('fileName').textContent = selectedFiles.length > 1 ? 
+                `${selectedFiles.length} ملفات مختارة` : selectedFiles[0].name;
+            document.getElementById('fileSize').textContent = (totalSize / (1024 * 1024)).toFixed(2) + ' MB';
+            
+            fileInfo.classList.remove('hidden');
+            convertBtn.classList.remove('hidden');
+            dropZone.classList.add('hidden');
+        }
+
+        removeFile.addEventListener('click', () => {
+            selectedFiles = []; fileInput.value = '';
+            fileInfo.classList.add('hidden'); convertBtn.classList.add('hidden'); dropZone.classList.remove('hidden');
+        });
+
+        convertBtn.addEventListener('click', () => {
+            if (selectedFiles.length === 0) return;
+            uploadSection.classList.add('hidden');
+            convertingSection.classList.remove('hidden');
+
+            const formData = new FormData();
+            selectedFiles.forEach(file => formData.append('file', file)); // API expects 'file' for both single/multiple usually, or adapt backend
+            // Note: Backend ConvertFromImage/Merge expects 'file' as list. request.files.getlist('file') works if key is same.
+            
+            if (currentToolKey === 'HOME') formData.append('engine', 'standard');
+
+            let progress = 0;
+            const progressInterval = setInterval(() => {
+                if (progress < 90) {
+                    progress += Math.random() * 5;
+                    const displayProgress = Math.min(Math.round(progress), 90);
+                    progressBar.style.width = displayProgress + '%';
+                    progressText.textContent = displayProgress + '%';
+                }
+            }, 300);
+            
+            fetch(`${API_BASE_URL}${currentTool.endpoint}`, { method: 'POST', body: formData })
+            .then(res => res.json())
+            .then(data => {
+                clearInterval(progressInterval);
+                if (data.success) {
+                    progressBar.style.width = '100%';
+                    progressText.textContent = '100%';
+                    setTimeout(() => {
+                        convertingSection.classList.add('hidden');
+                        successSection.classList.remove('hidden');
+                        downloadBtn.onclick = () => window.location.href = `${API_BASE_URL}${data.download_url}`;
+                        
+                        // Update download text based on file type
+                        const ext = data.filename.split('.').pop().toUpperCase();
+                        downloadBtn.innerHTML = `<i class="fas fa-download"></i> تحميل الملف (${ext})`;
+                    }, 600);
+                } else { showError(data.error || 'حدث خطأ غير معروف'); }
+            })
+            .catch(err => {
+                clearInterval(progressInterval);
+                console.error(err);
+                showError('خطأ في الاتصال بالسيرفر.');
+            });
+        });
+
+        function showError(msg) {
+            errorMessage.textContent = msg;
+            uploadSection.classList.add('hidden');
+            convertingSection.classList.add('hidden');
+            successSection.classList.add('hidden');
+            errorSection.classList.remove('hidden');
+        }
+
+        [convertAnotherBtn, tryAgainBtn].forEach(btn => {
+            btn.addEventListener('click', () => {
+                selectedFiles = []; fileInput.value = '';
+                errorSection.classList.add('hidden'); successSection.classList.add('hidden'); convertingSection.classList.add('hidden');
+                uploadSection.classList.remove('hidden'); fileInfo.classList.add('hidden'); convertBtn.classList.add('hidden'); dropZone.classList.remove('hidden');
+                progressBar.style.width = '0%';
+            });
+        });
+        
+        // جلب عدد المستخدمين
+        fetch(`${API_BASE_URL}/stats`)
+            .then(r => r.json())
+            .then(data => {
+                const count = data.user_count || 1250;
+                document.getElementById('userCount').textContent = new Intl.NumberFormat('en-US').format(count);
+            })
+            .catch(() => document.getElementById('userCount').textContent = '+1,200');
+        
+        document.getElementById('currentYear').textContent = new Date().getFullYear();
+        //]]>
+    </script>
+</body>
+</html>
